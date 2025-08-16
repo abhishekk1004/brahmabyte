@@ -1,0 +1,4 @@
+DATABASE_URL=postgresql://postgres:abhi18@localhost:5432/app_db
+SECRET_KEY=your_very_secret_key
+
+.env
